@@ -13,6 +13,8 @@ const fcmKeyObj = [
     }
 ];
 
+console.log('Hello');
+
 let serverKey = '';
 let regisID = '';
 
